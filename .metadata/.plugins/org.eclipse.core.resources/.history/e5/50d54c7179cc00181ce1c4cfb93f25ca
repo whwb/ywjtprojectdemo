@@ -1,0 +1,12 @@
+package com.jt.manage.service;
+
+import org.springframework.stereotype.Service;
+
+import com.jt.common.vo.EasyUIResult;
+
+@Service
+public class ItemServiceImpl implements ItemService {
+
+	}
+
+}

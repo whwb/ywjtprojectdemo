@@ -1,0 +1,26 @@
+package com.jt.manage.service;
+
+import org.springframework.stereotype.Service;
+
+import com.jt.common.mapper.SysMapper;
+import com.jt.common.vo.EasyUIResult;
+import com.jt.manage.mapper.ItemMapper;
+import com.jt.manage.pojo.Item;
+
+@Service
+public class ItemServiceImpl implements ItemService {
+
+	private ItemMapper itemMapper;
+	//定义商品的分页信息   easyUIResult 里面定义了两个参数，一个是总记录数total，一个是包含当前页商品所有信息的list集合rows
+	//所以如果通过easyUIResult对象传回数据，那么就要对这两个参数赋值
+	@Override
+	public EasyUIResult findItemByPage(int page, int rows) {
+		//查询总记录数
+	 itemMapper.selectCount(null);
+		
+		return null;
+	}
+
+	
+
+}
