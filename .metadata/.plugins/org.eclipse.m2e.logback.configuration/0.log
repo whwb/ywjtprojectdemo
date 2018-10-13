@@ -831,3 +831,81 @@
 2018-10-13 10:15:25,327 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
 2018-10-13 10:15:27,466 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\ywjtprojectdemo\jt-manage
 2018-10-13 10:15:27,470 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\software\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-10-13 15:57:22,644 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 15:57:22,659 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 15:57:22,662 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 15:57:22,679 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:03:22,264 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:03:22,283 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:03:22,290 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:03:22,300 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:03:23,324 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:03:23,339 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:03:23,343 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:03:23,361 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:03:36,608 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:03:36,639 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:03:36,649 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:03:36,685 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:05:38,570 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:05:38,582 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:05:38,584 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:05:38,600 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:07:53,395 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:07:53,408 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:07:53,414 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:07:53,426 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:07:58,631 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:07:58,645 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:07:58,646 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:07:58,663 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:12:24,538 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:12:24,550 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:12:24,556 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:12:24,564 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:42:19,334 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:42:19,342 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:42:19,344 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:42:19,356 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:44:17,606 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:44:17,616 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:44:17,622 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:44:17,632 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:44:38,354 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:44:38,364 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:44:38,366 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:44:38,376 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:44:41,755 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:44:41,770 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:44:41,779 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:44:41,790 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:46:37,659 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:46:37,672 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:46:37,676 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:46:37,689 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:47:15,229 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:47:15,239 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:47:15,246 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:47:15,255 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:47:23,594 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:47:23,600 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:47:23,602 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:47:23,611 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 16:49:41,111 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:49:41,123 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 16:49:41,129 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 16:49:41,140 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 17:01:16,395 [Worker-165] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\ywjtprojectdemo\jt-manage
+2018-10-13 17:01:16,395 [Worker-165] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\software\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-10-13 17:08:21,413 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 17:08:21,430 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 17:08:21,436 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 17:08:21,446 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 17:08:22,510 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 17:08:22,522 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2018-10-13 17:08:22,528 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-13 17:08:22,540 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ywjtprojectdemo\jt-manage\src\test\resources
+2018-10-13 17:08:41,381 [Worker-179] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\ywjtprojectdemo\jt-manage
+2018-10-13 17:08:41,387 [Worker-179] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\software\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-10-13 17:12:48,909 [Worker-180] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\ywjtprojectdemo\jt-manage
+2018-10-13 17:12:48,915 [Worker-180] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\software\apache-maven-3.3.9\conf\settings.xml tomcat7:run
