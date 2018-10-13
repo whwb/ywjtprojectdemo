@@ -1,0 +1,11 @@
+package com.jt.manage.service;
+
+public class ItemCatServiceImpl implements ItemCatService {
+
+	@Override
+	public String queryItemNameById(Long itemId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

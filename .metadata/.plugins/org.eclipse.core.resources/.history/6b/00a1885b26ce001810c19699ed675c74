@@ -1,0 +1,17 @@
+package com.jt.manage.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.jt.manage.mapper.ItemCatMapper;
+
+public class ItemCatServiceImpl implements ItemCatService {
+	@Autowired
+	private ItemCatMapper itemCatMapper;
+	@Override
+	public String queryItemNameById(Long itemId) {
+		String itemCatName=itemCatMapper.queryItemNameById(itemId);
+		
+		return null;
+	}
+
+}
