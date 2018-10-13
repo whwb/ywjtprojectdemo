@@ -12,7 +12,7 @@ import com.jt.manage.service.ItemCatService;
 public class ItemCatController {
 	@Autowired
 	private ItemCatService itemCatService;
-	@RequestMapping(value="/queryItemName",produces="text/html;charset=utf-8")
+	@RequestMapping("/queryItemName")
 	@ResponseBody
 	public String queryItemName(Long itemId){
 		String itemCatName=itemCatService.queryItemNameById(itemId);
