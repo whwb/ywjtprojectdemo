@@ -10,5 +10,5 @@
 <typeInfo handle="=jt-common/E:\/software\/mvn_repo\/javax\/servlet\/servlet-api\/2.5\/servlet-api-2.5.jar&lt;javax.servlet(Servlet.class[Servlet" modifiers="1537" timestamp="1372245226000"/>
 <typeInfo handle="=jt-common/E:\/software\/mvn_repo\/org\/mybatis\/mybatis-spring\/1.2.2\/mybatis-spring-1.2.2.jar&lt;org.mybatis.spring(SqlSessionFactoryBean.class[SqlSessionFactoryBean" modifiers="33" timestamp="1430875310000"/>
 <typeInfo handle="=jt-common/E:\/software\/mvn_repo\/org\/mybatis\/mybatis-spring\/1.2.2\/mybatis-spring-1.2.2.jar&lt;org.mybatis.spring.mapper(MapperScannerConfigurer.class[MapperScannerConfigurer" modifiers="33" timestamp="1430875310000"/>
-<typeInfo handle="=jt-manage/src\/main\/java&lt;com.jt.manage.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1539351421441"/>
+<typeInfo handle="=jt-manage/src\/main\/java&lt;com.jt.manage.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1539418078389"/>
 </typeInfoHistroy>

@@ -909,3 +909,5 @@
 2018-10-13 17:08:41,387 [Worker-179] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\software\apache-maven-3.3.9\conf\settings.xml tomcat7:run
 2018-10-13 17:12:48,909 [Worker-180] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\ywjtprojectdemo\jt-manage
 2018-10-13 17:12:48,915 [Worker-180] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\software\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-10-13 17:37:58,826 [Stop Help Server] INFO  o.e.jetty.server.ServerConnector - Stopped ServerConnector@321788c8{HTTP/1.1}{127.0.0.1:0}
+2018-10-13 17:37:58,896 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@42faf8ae{/help,null,UNAVAILABLE}
