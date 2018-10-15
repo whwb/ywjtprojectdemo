@@ -1,5 +1,6 @@
 package com.jt.manage.service;
 
+import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,6 +10,7 @@ import com.jt.common.mapper.SysMapper;
 import com.jt.common.vo.EasyUIResult;
 import com.jt.manage.mapper.ItemMapper;
 import com.jt.manage.pojo.Item;
+import com.jt.manage.pojo.ItemDesc;
 
 @Service
 public class ItemServiceImpl implements ItemService {
@@ -31,6 +33,25 @@ public class ItemServiceImpl implements ItemService {
 	
 		
 	}
+	@Override
+	public void addItem(Item item,String Desc) {
+		//item 包含了从前端传递过来的数据
+		item.setCreated(new Date());
+		item.setUpdated(item.getCreated());
+		item.setStatus(1);
+		//使用通用mapper进行插入工作
+		itemMapper.insert(item);
+		
+		//新建一个itemDesc对象，并对他赋值 ，使用通用mapper
+		ItemDesc itemDesc = new ItemDesc();
+		itemDesc.setCreated(item.getCreated());
+		itemDesc.setItemDesc(Desc);
+		itemDesc.setItemId(item.getId());
+		itemDesc.setUpdated(item.getCreated());
+		
+		
+	}
+	
 
 	
 
